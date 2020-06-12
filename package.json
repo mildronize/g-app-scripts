@@ -1,0 +1,20 @@
+{
+  "name": "g-app-scripts",
+  "version": "1.0.0",
+  "description": "My Google App Scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "login": "clasp login",
+    "app": "clasp",
+    "start": "clasp push --watch"
+  },
+  "author": "THADA WANGTHAMMANG",
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "latest"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
+}
