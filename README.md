@@ -1,6 +1,15 @@
+
+note 
+
+https://github.com/peterherrmann/BetterLog
+
+How to re-use Google Apps Scripts in new Google Spreadsheet
+https://webapps.stackexchange.com/a/39605
+
+
 # Instruction
 
-```
+```bash
 # clasp --> yarn app
 
 # Login

@@ -8,6 +8,6 @@ Logger.log(greeter(user));
 const SayHello = () => {
     Logger.log("Hello");
     Logger.log("Hello More");
+    console.log("test");
 }
 
-SayHello();
